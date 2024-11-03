@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "M110-Individual-Periklis.sln"
+    "dotnet.defaultSolution": "M110-Individual-Periklis_Final.sln"
 }
